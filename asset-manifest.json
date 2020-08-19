@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newsapp-cms/static/css/main.4e673c06.chunk.css",
+    "main.js": "/newsapp-cms/static/js/main.39507bfb.chunk.js",
+    "main.js.map": "/newsapp-cms/static/js/main.39507bfb.chunk.js.map",
+    "runtime-main.js": "/newsapp-cms/static/js/runtime-main.93bc134a.js",
+    "runtime-main.js.map": "/newsapp-cms/static/js/runtime-main.93bc134a.js.map",
+    "static/css/2.5e3fcda8.chunk.css": "/newsapp-cms/static/css/2.5e3fcda8.chunk.css",
+    "static/js/2.959ad650.chunk.js": "/newsapp-cms/static/js/2.959ad650.chunk.js",
+    "static/js/2.959ad650.chunk.js.map": "/newsapp-cms/static/js/2.959ad650.chunk.js.map",
+    "index.html": "/newsapp-cms/index.html",
+    "precache-manifest.8b0d04f53203974a99a181f863cbeb04.js": "/newsapp-cms/precache-manifest.8b0d04f53203974a99a181f863cbeb04.js",
+    "service-worker.js": "/newsapp-cms/service-worker.js",
+    "static/css/2.5e3fcda8.chunk.css.map": "/newsapp-cms/static/css/2.5e3fcda8.chunk.css.map",
+    "static/css/main.4e673c06.chunk.css.map": "/newsapp-cms/static/css/main.4e673c06.chunk.css.map",
+    "static/js/2.959ad650.chunk.js.LICENSE.txt": "/newsapp-cms/static/js/2.959ad650.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93bc134a.js",
+    "static/css/2.5e3fcda8.chunk.css",
+    "static/js/2.959ad650.chunk.js",
+    "static/css/main.4e673c06.chunk.css",
+    "static/js/main.39507bfb.chunk.js"
+  ]
+}
